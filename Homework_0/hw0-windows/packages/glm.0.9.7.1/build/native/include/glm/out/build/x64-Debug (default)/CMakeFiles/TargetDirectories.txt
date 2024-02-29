@@ -1,0 +1,2 @@
+F:/Sinh/Computer graphics/Homework 0/hw0-windows/packages/glm.0.9.7.1/build/native/include/glm/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+F:/Sinh/Computer graphics/Homework 0/hw0-windows/packages/glm.0.9.7.1/build/native/include/glm/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
